@@ -29,11 +29,22 @@ git clone https://github.com/my_company/company_repo.git
 
 Here's what `yarn build` doing behind the scenes:
 
-<SwmSnippetPlaceholder>
+### 
 
-Insert a snippet that shows where `yarn build` logic is implemented.
+<SwmSnippet path="/README.md" line="1">
 
-</SwmSnippetPlaceholder>
+---
+
+&nbsp;
+
+```markdown
+# Tal-test-repo
+test test test
+```
+
+---
+
+</SwmSnippet>
 
 ### Troubleshooting
 
