@@ -1,7 +1,7 @@
 ---
 title: Swmd flow
 ---
-<SwmLink doc-title="New PlayList">[New PlayList](/.swm/new-playlist.o4zad79q.pl.sw.md)</SwmLink>
+&nbsp;
 
 <SwmSnippet path="/README.md" line="1">
 
