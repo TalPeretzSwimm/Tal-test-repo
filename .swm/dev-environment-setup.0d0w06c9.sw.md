@@ -1,7 +1,24 @@
 ---
 title: Dev environment setup
 ---
-To run your local dev environment you will need a few things on your machine. Follow the steps below.
+&nbsp;
+
+<SwmLink doc-title="Test file">[Test file](/.swm/test-file.9tuyjh9d.sw.md)</SwmLink>
+
+<SwmPath>[README.md](/README.md)</SwmPath>
+
+&nbsp;
+
+To run your local dev environment you will need a few things on your machine. Follow the steps below.&nbsp;
+
+```mermaid
+graph TD
+    A[Christmas] -->|Get money| B(Go shopping)
+    B --> C{Let me think}
+    C -->|One| D[Laptop]
+    C -->|Two| E[iPhone]
+    C -->|Three| F[fa:fa-car Car]
+```
 
 ## Installations
 
