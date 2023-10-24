@@ -7,7 +7,7 @@ title: Dev environment setup
 
 <SwmPath>[README.md](/README.md)</SwmPath>
 
-&nbsp;
+Test edit
 
 To run your local dev environment you will need a few things on your machine. Follow the steps below.&nbsp;
 
@@ -27,8 +27,6 @@ graph TD
 - Install an IDE (preferably [VS Code](https://code.visualstudio.com/))
 
 - Install Git (if you don't already have it on your machine).
-
-<br/>
 
 ## Getting the sources
 
